@@ -1,4 +1,4 @@
-### 👋 Hi there!
+### 👋 Hi Guys
 
 Berikut adalah ringkasan singkat tentang teknologi yang saya gunakan:
 
