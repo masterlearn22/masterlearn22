@@ -1,25 +1,25 @@
 ### 👋 Hi Guys
 
-Selamat datang di profil saya!
+Welcome to my profile!
 
-Saya adalah seorang Fullstack Developer yang berfokus pada Backend serta sangat tertarik pada Machine Learning, Deep Learning, Data Processing, dan AI Engineering.
-Saya suka membangun API, memodelkan data, melatih model ML, dan mengembangkan aplikasi end-to-end berbasis AI.
+I’m a Fullstack Developer specializing in Backend Engineering, with a strong passion for Machine Learning, Deep Learning, Data Processing, and AI Engineering.
+I enjoy building scalable APIs, designing data pipelines, training ML models, and developing end-to-end AI-powered applications.
 
 ---
 
 ### 🚀 Fokus dan Minat Utama Saya
 
-🧩 Backend Development (Go, Laravel, FastAPI, REST API, Clean Architecture)
-🤖 Machine Learning & Deep Learning (TensorFlow, Keras, PyTorch, scikit-learn, CV, NLP)
-📊 Data Analysis & Engineering (Pandas, Numpy, Matplotlib, Seaborn, SciPy)
-🖥️ Fullstack Development (Next.js, React, Vue, Flutter, JS, HTML/CSS, Streamlit dashboards)
-💡 AI Applications (Sentiment Analysis, Image Classification, Clustering, Time-series)
+🧩 Backend Development — Go, Laravel, FastAPI, REST API, Clean Architecture
+🤖 Machine Learning & Deep Learning — TensorFlow, Keras, PyTorch, scikit-learn, Computer Vision, NLP
+📊 Data Analysis & Engineering — Pandas, Numpy, Matplotlib, Seaborn, SciPy
+🖥️ Fullstack Development — Laravel, Next.js, React, Vue, Flutter, JavaScript, HTML/CSS, Streamlit Dashboards
+💡 AI-driven Applications — Sentiment Analysis, Image Classification, Clustering, Time-series Modeling
 
 ---
 
-📊 Statistik GitHub Saya
+### 📊 Statistik GitHub Saya
 
-Bahasa & teknologi yang paling sering saya gunakan dalam repositori publik:
+The languages and technologies I use most frequently across my public repositories:
 
 <div align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs" style="max-width:100%; border-radius: 12px;"> </a> </div>
 
