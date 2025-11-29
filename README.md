@@ -9,10 +9,10 @@ I enjoy building scalable APIs, designing data pipelines, training ML models, an
 
 ### 🚀 My Core Focus & Interests
 
-<p>🧩 Backend Development — Go, Laravel, FastAPI, REST API, Clean Architecture</p>
+<p>🧩 Backend Development — Go, Php, Java, REST API</p>
 <p>🤖 Machine Learning & Deep Learning — TensorFlow, Keras, PyTorch, scikit-learn, Computer Vision, NLP</p>
 <p>📊 Data Analysis & Engineering — Pandas, Numpy, Matplotlib, Seaborn, SciPy</p>
-<p>🖥️ Fullstack Development — Laravel, Next.js, React, Vue, Flutter, JavaScript, HTML/CSS, Streamlit Dashboards</p>
+<p>🖥️ Fullstack Development — Laravel, Fiber, Gin, Next.js, React, Vue</p>
 <p>💡 AI-driven Applications — Sentiment Analysis, Image Classification, Clustering, Time-series Modeling</p>
 
 ---
