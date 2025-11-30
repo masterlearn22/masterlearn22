@@ -1,9 +1,10 @@
-### 👋 Hi Guys
+### 🚀 Hello! I'm a Backend & AI Engineer
 
-Welcome to my profile!
-
-I’m a Fullstack Developer specializing in Backend Engineering, with a strong passion for Machine Learning, Deep Learning, Data Processing, and AI Engineering.
-I enjoy building scalable APIs, designing data pipelines, training ML models, and developing end-to-end AI-powered applications.
+I specialize in **Backend Development** and **Data Science**, turning complex data into actionable insights and scalable applications.
+With a strong foundation in **Go** and **Python**, I enjoy solving problems related to:
+* Scalable API Architecture & Microservices
+* Deep Learning & Computer Vision
+* End-to-end AI Application Deployment
 
 ---
 
