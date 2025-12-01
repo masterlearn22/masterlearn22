@@ -21,8 +21,9 @@ With a strong foundation in **Go** and **Python**, I enjoy solving problems rela
 ### 📊 My GitHub Statistics.
 
 The languages and technologies I use most frequently across my public repositories:
-
-<div align="center"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs" style="max-width:100%; border-radius: 12px;"> </a> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterlearn22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
